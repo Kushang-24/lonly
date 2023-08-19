@@ -84,7 +84,7 @@
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.12);
 }
 .about-img {
-  background: url(../images/me.jpg) center center no-repeat;
+  background: url(../image/me.jpg) center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
